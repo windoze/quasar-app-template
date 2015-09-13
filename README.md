@@ -1,4 +1,4 @@
-# *testgrp:testprj:1.0-SNAPSHOT*
+# *com._0d0a:quasar-app-template:1.0-SNAPSHOT*
 
 A [Parallel Universe Quasar](http://www.paralleluniverse.co/quasar/) Maven test project for standalone Java 1.7+ applications.
 
